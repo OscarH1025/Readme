@@ -10,7 +10,6 @@
   * [Usage](#usage)
    
   * [Contributing](#contributing)
-  * [Tests](#tests)
   * [Questions](#questions)
   
   ## [Description](#table-of-contents)
@@ -35,9 +34,6 @@
   Thank you for your interest in helping out; however, I will not be accepting contributions from third parties.
     
 
-  ## [Tests](#table-of-contents)
-
-  N/A
 
   ## [Questions](#table-of-contents)
 
@@ -47,11 +43,6 @@
 
   [Email: oscarhurtadosb@gmail.com](mailto:oscarhurtadosb@gmail.com)
 
-    
-
-  ## [Tests](#table-of-contents)
-
-  N/A
 
   ## [Questions](#table-of-contents)
 
